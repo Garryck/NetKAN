@@ -1,0 +1,12 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "JAFOsFlag",
+	"name": "JAFO's Flag",
+    "$kref"        : "#/ckan/github/Garryck/JAFOsFlag",
+    "license"      : "Unlicense",
+    "ksp_version"  : "any",
+	"version"	  : "1.0",
+    "resources": {
+        "homepage": "https://github.com/Garryck/JAFOsFlag"
+    }
+}
